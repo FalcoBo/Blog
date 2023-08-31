@@ -1,0 +1,27 @@
+main{
+    margin: 100px 5% 1% 5%;
+}
+
+.bloc{
+    margin-top: 7%;
+}
+
+.prep{
+    display: flex;
+    gap: 8%;
+    margin: 2% 0 2% 0;
+}
+
+.prep img{
+    width: 40vw;
+    border-radius: 15px;
+}
+
+.txt-projet{
+    display: flex;
+    gap: 8%;
+}
+
+.prep-txt-exp p{
+    margin-bottom: 3%;
+}
